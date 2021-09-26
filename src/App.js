@@ -90,16 +90,34 @@ Number.prototype.between = function (a, b) {
   return this >= min && this <= max;
 };
 
-function noOfNumbersBetween(numbersArray, min, max) {
+const noOfNumbersBetween = (numbersArray, min, max) => {
   return numbersArray.filter(n => Number(n).between(min, max)).length;
+}
+
+const countNoOfTimesNumberDrawn = (drawnNumbersArray) => {
+  return countBy(drawnNumbersArray, (n) => n);
+}
+
+const getHotNumbers = (noOfTimesNumberDrawn) => {
+  return transform(noOfTimesNumberDrawn, (result, value, key) => {
+    const numbersArray = result[value];
+    if (numbersArray) {
+      numbersArray.push(key);
+    } else {
+      result[value] = [key];
+    }
+  }, {});
 }
 
 function App() {
   const drawnNumbers = [];
+  const powerballNumbers = [];
   const powerballData = data.map(d => {
     const drawingResult = d.results[0].primary;
     const numbers = drawingResult.slice(0, 5);
     drawnNumbers.push(...numbers);
+    const powerball = drawingResult[6].slice(3);
+    powerballNumbers.push(powerball);
     return {
       drawTime: moment(d.drawTime).format('MM/DD/YY'),
       [EPowerBallNumbers.N1]: drawingResult[0],
@@ -107,7 +125,7 @@ function App() {
       [EPowerBallNumbers.N3]: drawingResult[2],
       [EPowerBallNumbers.N4]: drawingResult[3],
       [EPowerBallNumbers.N5]: drawingResult[4],
-      [EPowerBallNumbers.PB]: drawingResult[6],
+      [EPowerBallNumbers.PB]: powerball,
       [EAnalysis.zeroToTen]: noOfNumbersBetween(numbers, 0, 10),
       [EAnalysis.elevenToTwenty]: noOfNumbersBetween(numbers, 11, 20),
       [EAnalysis.twentyoneToThirty]: noOfNumbersBetween(numbers, 21, 30),
@@ -117,17 +135,18 @@ function App() {
       [EAnalysis.sixtyoneToSeventy]: noOfNumbersBetween(numbers, 61, 70),
     }
   });
-  const countNoOfTimes = countBy(drawnNumbers, Math.floor);
-  const hotNumbers = transform(countNoOfTimes, (result, value, key) => {
-    const numbersArray = result[value];
-    if(numbersArray) {
-      numbersArray.push(key);
-    } else {
-      result[value] = [key];
-    }
-  }, {});
+  const countNoOfTimes = countNoOfTimesNumberDrawn(drawnNumbers);
+  console.log("DRAWN NUMBERS");
+  console.log(countNoOfTimes);
+  const hotNumbers = getHotNumbers(countNoOfTimes);
   console.log("HOT NUMBERS");
   console.log(hotNumbers);
+  const countNoOfTimesPB = countNoOfTimesNumberDrawn(powerballNumbers);
+  console.log("DRAWN PB NUMBERS");
+  console.log(countNoOfTimesPB);
+  const hotPBNumbers = getHotNumbers(countNoOfTimesPB);
+  console.log("HOT PB NUMBERS");
+  console.log(hotPBNumbers);
 
   return (
     <div className="App">
