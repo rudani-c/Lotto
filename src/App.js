@@ -1,7 +1,26 @@
 import React from 'react';
 import DataTable from 'react-data-table-component';
 import data from './data.json';
-drawTime;
+
+const EPowerBallNumbers = {
+  N1: 'n1',
+  N2: 'n2',
+  N3: 'n3',
+  N4: 'n4',
+  N5: 'n5',
+  PB: 'pb',
+}
+
+const EAnalysis = {
+  zeroToTen: 'zeroToTen',
+  elevenToTwenty: 'elevenToTwenty',
+  twentyoneToThirty: 'twentyoneToThirty',
+  thirtyoneToFourty: 'thirtyoneToFourty',
+  fourtyoneToFifty: 'fourtyoneToFifty',
+  fiftyoneToSixty: 'fiftyoneToSixty',
+  sixtyoneToSeventy: 'sixtyoneToSeventy',
+}
+
 const columns = [
   {
     name: 'Draw Date',
@@ -10,55 +29,55 @@ const columns = [
   },
   {
     name: 'n1',
-    selector: 'n1',
+    selector: EPowerBallNumbers.N1,
   },
   {
     name: 'n2',
-    selector: 'n2',
+    selector: EPowerBallNumbers.N2,
   },
   {
     name: 'n3',
-    selector: 'n3',
+    selector: EPowerBallNumbers.N3,
   },
   {
     name: 'n4',
-    selector: 'n4',
+    selector: EPowerBallNumbers.N4,
   },
   {
     name: 'n5',
-    selector: 'n5',
+    selector: EPowerBallNumbers.N5,
   },
   {
     name: 'pb',
-    selector: 'pb',
+    selector: EPowerBallNumbers.PB,
   },
   {
     name: '0-10',
-    selector: 'zeroToTen',
+    selector: EAnalysis.zeroToTen,
   },
   {
     name: '11-20',
-    selector: 'elevenToTwenty',
+    selector: EAnalysis.elevenToTwenty,
   },
   {
     name: '21-30',
-    selector: 'twentyoneToThirty',
+    selector: EAnalysis.twentyoneToThirty,
   },
   {
     name: '31-40',
-    selector: 'thirtyoneToFourty',
+    selector: EAnalysis.thirtyoneToFourty,
   },
   {
     name: '41-50',
-    selector: 'fourtyoneToFifty',
+    selector: EAnalysis.fourtyoneToFifty,
   },
   {
     name: '51-60',
-    selector: 'fiftyoneToSixty',
+    selector: EAnalysis.fiftyoneToSixty,
   },
   {
     name: '61-70',
-    selector: 'sixtyoneToSeventy',
+    selector: EAnalysis.sixtyoneToSeventy,
   },
 ];
 
