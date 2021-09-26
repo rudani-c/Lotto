@@ -1,3 +1,4 @@
+import { countBy, transform } from 'lodash';
 import moment from 'moment';
 import React from 'react';
 import DataTable from 'react-data-table-component';
@@ -82,7 +83,7 @@ const columns = [
   },
 ];
 
-Number.prototype.between = function(a, b) {
+Number.prototype.between = function (a, b) {
   var min = Math.min(a, b),
     max = Math.max(a, b);
 
@@ -94,10 +95,11 @@ function noOfNumbersBetween(numbersArray, min, max) {
 }
 
 function App() {
-
+  const drawnNumbers = [];
   const powerballData = data.map(d => {
     const drawingResult = d.results[0].primary;
     const numbers = drawingResult.slice(0, 5);
+    drawnNumbers.push(...numbers);
     return {
       drawTime: moment(d.drawTime).format('MM/DD/YY'),
       [EPowerBallNumbers.N1]: drawingResult[0],
@@ -115,6 +117,17 @@ function App() {
       [EAnalysis.sixtyoneToSeventy]: noOfNumbersBetween(numbers, 61, 70),
     }
   });
+  const countNoOfTimes = countBy(drawnNumbers, Math.floor);
+  const hotNumbers = transform(countNoOfTimes, (result, value, key) => {
+    const numbersArray = result[value];
+    if(numbersArray) {
+      numbersArray.push(key);
+    } else {
+      result[value] = [key];
+    }
+  }, {});
+  console.log("HOT NUMBERS");
+  console.log(hotNumbers);
 
   return (
     <div className="App">
