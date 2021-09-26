@@ -154,7 +154,6 @@ function App() {
         title="Lotto Analysis"
         columns={columns}
         data={powerballData}
-        pagination
         highlightOnHover
       />
     </div>
