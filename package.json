@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "react": "16.13.1",
     "react-data-table-component": "^6.11.0",
     "react-dom": "16.13.1",
