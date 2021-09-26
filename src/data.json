@@ -1,602 +1,3270 @@
 [
-	{
-		"name": "Katelyn T. Boyle",
-		"phone": "1-389-886-8523",
-		"email": "mi.lacinia@laciniamattis.edu",
-		"dob": "07/11/1997"
-	},
-	{
-		"name": "September Y. Forbes",
-		"phone": "879-4512",
-		"email": "Proin.mi.Aliquam@arcuVestibulum.org",
-		"dob": "01/11/1968"
-	},
-	{
-		"name": "Kaseem T. Potts",
-		"phone": "612-9561",
-		"email": "tempus.lorem@luctussitamet.org",
-		"dob": "11/04/1995"
-	},
-	{
-		"name": "Maite Mcintosh",
-		"phone": "1-727-227-3534",
-		"email": "sagittis.Duis@tellusPhaselluselit.net",
-		"dob": "30/08/1988"
-	},
-	{
-		"name": "Kerry Calderon",
-		"phone": "1-730-492-6543",
-		"email": "Integer.sem@nisi.org",
-		"dob": "07/11/1973"
-	},
-	{
-		"name": "Hakeem W. Fowler",
-		"phone": "897-7252",
-		"email": "et.arcu@Quisque.co.uk",
-		"dob": "10/06/1987"
-	},
-	{
-		"name": "Steel Bruce",
-		"phone": "1-233-437-3487",
-		"email": "Donec.nibh.enim@ametnulla.net",
-		"dob": "06/08/1978"
-	},
-	{
-		"name": "Joseph Henderson",
-		"phone": "1-881-206-0743",
-		"email": "Sed.nec@risusDonecegestas.ca",
-		"dob": "14/06/1988"
-	},
-	{
-		"name": "Quinn L. Lamb",
-		"phone": "999-8845",
-		"email": "accumsan.laoreet.ipsum@Donecnibh.com",
-		"dob": "24/08/1998"
-	},
-	{
-		"name": "Hadley Shields",
-		"phone": "1-690-958-1438",
-		"email": "ante.dictum@ornareegestas.ca",
-		"dob": "11/09/1985"
-	},
-	{
-		"name": "Tara S. Clarke",
-		"phone": "539-3379",
-		"email": "posuere.enim.nisl@faucibusidlibero.ca",
-		"dob": "18/07/1974"
-	},
-	{
-		"name": "Travis Zamora",
-		"phone": "1-410-239-6938",
-		"email": "Nam@fringilla.edu",
-		"dob": "16/03/1980"
-	},
-	{
-		"name": "Hilel Chandler",
-		"phone": "1-842-693-3527",
-		"email": "placerat.augue.Sed@velitegestas.com",
-		"dob": "01/07/1983"
-	},
-	{
-		"name": "Maisie Phelps",
-		"phone": "1-695-407-3574",
-		"email": "nisi.nibh@Fuscefeugiat.org",
-		"dob": "13/10/1980"
-	},
-	{
-		"name": "Heidi Montgomery",
-		"phone": "1-264-258-4447",
-		"email": "vulputate.posuere.vulputate@ametornarelectus.com",
-		"dob": "10/12/1971"
-	},
-	{
-		"name": "Jackson Oneil",
-		"phone": "1-638-155-3149",
-		"email": "tempor.arcu@sed.ca",
-		"dob": "13/08/1983"
-	},
-	{
-		"name": "Savannah Q. Osborn",
-		"phone": "392-6188",
-		"email": "hendrerit.neque@Nuncquis.net",
-		"dob": "18/06/1999"
-	},
-	{
-		"name": "Lesley C. Le",
-		"phone": "828-1474",
-		"email": "consectetuer@libero.org",
-		"dob": "30/11/1978"
-	},
-	{
-		"name": "Brenden R. Vaughn",
-		"phone": "1-651-993-5457",
-		"email": "lectus.pede.et@ultricies.org",
-		"dob": "09/08/1984"
-	},
-	{
-		"name": "Beverly V. Mosley",
-		"phone": "1-880-511-8690",
-		"email": "Integer@Curabitur.com",
-		"dob": "13/10/1975"
-	},
-	{
-		"name": "Aquila H. Riddle",
-		"phone": "1-519-622-5158",
-		"email": "ut@congue.co.uk",
-		"dob": "18/12/1990"
-	},
-	{
-		"name": "Daryl V. Strong",
-		"phone": "891-6228",
-		"email": "magna@accumsan.co.uk",
-		"dob": "26/06/2000"
-	},
-	{
-		"name": "Garth Hooper",
-		"phone": "1-974-801-0172",
-		"email": "pellentesque.tellus@Pellentesquehabitant.edu",
-		"dob": "10/05/1981"
-	},
-	{
-		"name": "Lev Fisher",
-		"phone": "1-774-490-6618",
-		"email": "Curabitur@mollisnon.com",
-		"dob": "17/11/1975"
-	},
-	{
-		"name": "Jaden Caldwell",
-		"phone": "1-893-290-7035",
-		"email": "eu.eleifend.nec@feugiatSednec.edu",
-		"dob": "01/11/1991"
-	},
-	{
-		"name": "Courtney B. Leon",
-		"phone": "747-1596",
-		"email": "eu.eleifend.nec@mienimcondimentum.org",
-		"dob": "01/11/1985"
-	},
-	{
-		"name": "Meredith Z. Martinez",
-		"phone": "1-523-283-9358",
-		"email": "montes.nascetur@vellectus.co.uk",
-		"dob": "04/07/1988"
-	},
-	{
-		"name": "Pamela G. Roach",
-		"phone": "1-956-188-5509",
-		"email": "metus.In@iaculisodio.edu",
-		"dob": "10/01/1983"
-	},
-	{
-		"name": "Nolan Kirk",
-		"phone": "580-5661",
-		"email": "quam.quis.diam@aliquetsem.com",
-		"dob": "31/05/1977"
-	},
-	{
-		"name": "Damon Stokes",
-		"phone": "376-6414",
-		"email": "neque@infaucibus.net",
-		"dob": "21/02/1997"
-	},
-	{
-		"name": "Ila Daugherty",
-		"phone": "207-9279",
-		"email": "elit@Etiam.com",
-		"dob": "11/08/1973"
-	},
-	{
-		"name": "Florence M. Booth",
-		"phone": "1-679-613-5539",
-		"email": "quam.quis.diam@pulvinararcuet.ca",
-		"dob": "30/08/1969"
-	},
-	{
-		"name": "Dorian Luna",
-		"phone": "1-711-593-5673",
-		"email": "penatibus.et.magnis@molestiein.edu",
-		"dob": "29/06/1976"
-	},
-	{
-		"name": "Ira Crawford",
-		"phone": "390-0417",
-		"email": "lorem@vulputateullamcorpermagna.net",
-		"dob": "14/05/1992"
-	},
-	{
-		"name": "Christopher I. Davenport",
-		"phone": "513-0131",
-		"email": "mi@dapibus.com",
-		"dob": "04/01/1986"
-	},
-	{
-		"name": "Kiona Pollard",
-		"phone": "468-8632",
-		"email": "eu.tellus.eu@mauris.com",
-		"dob": "16/11/1976"
-	},
-	{
-		"name": "Blossom Barry",
-		"phone": "164-3542",
-		"email": "eros@primisinfaucibus.org",
-		"dob": "24/05/1995"
-	},
-	{
-		"name": "Janna Snider",
-		"phone": "1-879-238-4633",
-		"email": "ac.libero.nec@ipsumdolor.net",
-		"dob": "20/04/1988"
-	},
-	{
-		"name": "Larissa Hampton",
-		"phone": "1-766-588-2166",
-		"email": "Donec@interdum.org",
-		"dob": "07/12/1988"
-	},
-	{
-		"name": "Declan O. Kim",
-		"phone": "752-0415",
-		"email": "elit.Curabitur@ut.net",
-		"dob": "24/10/1986"
-	},
-	{
-		"name": "Philip Owen",
-		"phone": "246-6791",
-		"email": "nec.ligula.consectetuer@risusDonecnibh.co.uk",
-		"dob": "25/12/1986"
-	},
-	{
-		"name": "Vance Ratliff",
-		"phone": "440-5801",
-		"email": "fermentum.risus@dolor.com",
-		"dob": "14/12/1979"
-	},
-	{
-		"name": "Dorothy E. Garrison",
-		"phone": "1-619-930-8150",
-		"email": "sem.egestas@lacus.ca",
-		"dob": "04/11/1974"
-	},
-	{
-		"name": "Tatyana T. Day",
-		"phone": "1-391-764-1647",
-		"email": "Mauris.vel@perconubianostra.ca",
-		"dob": "03/06/1982"
-	},
-	{
-		"name": "Drew Kennedy",
-		"phone": "1-577-704-7362",
-		"email": "Maecenas@magnaSedeu.net",
-		"dob": "08/02/1968"
-	},
-	{
-		"name": "Coby Sanford",
-		"phone": "793-9294",
-		"email": "risus@in.com",
-		"dob": "03/01/1991"
-	},
-	{
-		"name": "Hayfa W. Melton",
-		"phone": "562-7157",
-		"email": "molestie@quamPellentesque.org",
-		"dob": "21/03/1988"
-	},
-	{
-		"name": "Uta Stuart",
-		"phone": "210-1895",
-		"email": "in.consectetuer.ipsum@lobortisClassaptent.com",
-		"dob": "04/03/1982"
-	},
-	{
-		"name": "Jemima Houston",
-		"phone": "1-349-409-5624",
-		"email": "felis.Nulla.tempor@inmolestietortor.ca",
-		"dob": "06/11/1968"
-	},
-	{
-		"name": "Cailin M. Sanford",
-		"phone": "220-9543",
-		"email": "pretium.aliquet.metus@consectetuereuismod.edu",
-		"dob": "03/02/1971"
-	},
-	{
-		"name": "Kibo H. Atkinson",
-		"phone": "468-6253",
-		"email": "ac@ultricesDuisvolutpat.com",
-		"dob": "23/11/1974"
-	},
-	{
-		"name": "Mason Q. Hopper",
-		"phone": "1-416-117-9588",
-		"email": "lacinia.at@massaMauris.co.uk",
-		"dob": "31/01/1971"
-	},
-	{
-		"name": "Rogan White",
-		"phone": "318-1198",
-		"email": "tellus.justo@molestiepharetranibh.edu",
-		"dob": "27/06/1985"
-	},
-	{
-		"name": "Kibo Petty",
-		"phone": "1-795-166-9081",
-		"email": "in@Sedneque.com",
-		"dob": "08/03/1982"
-	},
-	{
-		"name": "Wynne Wolf",
-		"phone": "664-1755",
-		"email": "enim.Etiam.gravida@aliquetodioEtiam.com",
-		"dob": "14/06/1985"
-	},
-	{
-		"name": "Piper Mccormick",
-		"phone": "1-816-664-9420",
-		"email": "Duis@turpis.co.uk",
-		"dob": "22/05/1987"
-	},
-	{
-		"name": "Tanek Browning",
-		"phone": "885-2917",
-		"email": "eget@magnis.org",
-		"dob": "29/10/1983"
-	},
-	{
-		"name": "Linus T. Harding",
-		"phone": "151-2485",
-		"email": "faucibus@dignissimlacus.com",
-		"dob": "03/06/1971"
-	},
-	{
-		"name": "Desirae Z. Brock",
-		"phone": "1-806-971-4667",
-		"email": "gravida.molestie.arcu@purus.edu",
-		"dob": "04/09/1995"
-	},
-	{
-		"name": "Donna Cunningham",
-		"phone": "1-787-837-4123",
-		"email": "vitae.semper@commodoauctor.com",
-		"dob": "02/04/1994"
-	},
-	{
-		"name": "Octavius J. Navarro",
-		"phone": "301-5545",
-		"email": "turpis.Aliquam@Cumsociis.edu",
-		"dob": "23/07/1979"
-	},
-	{
-		"name": "Jane Mann",
-		"phone": "692-0585",
-		"email": "facilisis.non@risusDonec.edu",
-		"dob": "06/05/1992"
-	},
-	{
-		"name": "Brielle Wallace",
-		"phone": "1-942-665-9007",
-		"email": "sem@viverraDonec.org",
-		"dob": "30/08/1974"
-	},
-	{
-		"name": "Malcolm Velez",
-		"phone": "1-638-145-7361",
-		"email": "ullamcorper.magna@Vivamuseuismod.net",
-		"dob": "23/03/1985"
-	},
-	{
-		"name": "Karina Ochoa",
-		"phone": "1-374-187-8585",
-		"email": "vitae.mauris.sit@ultriciesdignissim.com",
-		"dob": "19/01/1987"
-	},
-	{
-		"name": "Cherokee N. Paul",
-		"phone": "1-897-458-7214",
-		"email": "velit.justo@Maurisblandit.co.uk",
-		"dob": "29/10/1979"
-	},
-	{
-		"name": "Wang Spears",
-		"phone": "1-745-264-0768",
-		"email": "elementum@ligulaAeneangravida.co.uk",
-		"dob": "28/11/1986"
-	},
-	{
-		"name": "Leila F. Pittman",
-		"phone": "980-6400",
-		"email": "at@Donecat.ca",
-		"dob": "11/06/1999"
-	},
-	{
-		"name": "Bevis Benton",
-		"phone": "1-670-320-1073",
-		"email": "Mauris.blandit@necorciDonec.net",
-		"dob": "18/10/1991"
-	},
-	{
-		"name": "Vivian N. Quinn",
-		"phone": "1-945-440-8685",
-		"email": "mi.fringilla.mi@orciUt.com",
-		"dob": "08/02/1983"
-	},
-	{
-		"name": "Delilah X. Henderson",
-		"phone": "410-5213",
-		"email": "bibendum.Donec@Praesenteunulla.com",
-		"dob": "07/09/1972"
-	},
-	{
-		"name": "Harrison Alston",
-		"phone": "814-6328",
-		"email": "Integer.vulputate.risus@cursusluctusipsum.com",
-		"dob": "20/02/1971"
-	},
-	{
-		"name": "Rhea B. Lambert",
-		"phone": "1-185-364-7519",
-		"email": "a@sedduiFusce.org",
-		"dob": "16/09/1993"
-	},
-	{
-		"name": "Dennis M. Munoz",
-		"phone": "198-7742",
-		"email": "dapibus@Lorem.org",
-		"dob": "10/08/1995"
-	},
-	{
-		"name": "Caldwell Shelton",
-		"phone": "410-3089",
-		"email": "eget.ipsum@ultriciesadipiscingenim.com",
-		"dob": "18/09/1975"
-	},
-	{
-		"name": "Amir Juarez",
-		"phone": "1-999-456-1203",
-		"email": "et.pede.Nunc@enim.ca",
-		"dob": "10/02/1975"
-	},
-	{
-		"name": "Fredericka Fry",
-		"phone": "251-2786",
-		"email": "a.arcu@inlobortistellus.co.uk",
-		"dob": "08/07/1979"
-	},
-	{
-		"name": "Jesse G. Nichols",
-		"phone": "574-8398",
-		"email": "sem.vitae.aliquam@pede.org",
-		"dob": "24/06/1973"
-	},
-	{
-		"name": "Shana Duncan",
-		"phone": "739-2387",
-		"email": "pede.Nunc@fermentumrisus.edu",
-		"dob": "20/08/1993"
-	},
-	{
-		"name": "Shafira Morris",
-		"phone": "1-758-466-1432",
-		"email": "faucibus.orci.luctus@estac.com",
-		"dob": "13/03/1976"
-	},
-	{
-		"name": "Indigo Cruz",
-		"phone": "1-301-287-4515",
-		"email": "feugiat.non.lobortis@fermentumrisusat.net",
-		"dob": "09/01/1982"
-	},
-	{
-		"name": "Hilda Nguyen",
-		"phone": "507-8349",
-		"email": "vel@vitae.net",
-		"dob": "13/04/1979"
-	},
-	{
-		"name": "Tucker D. Guy",
-		"phone": "1-963-823-0346",
-		"email": "tincidunt.aliquam.arcu@aliquameros.co.uk",
-		"dob": "22/01/1983"
-	},
-	{
-		"name": "Guinevere I. Parsons",
-		"phone": "1-215-694-7661",
-		"email": "Fusce@lacusNullatincidunt.edu",
-		"dob": "01/04/1985"
-	},
-	{
-		"name": "Roanna Serrano",
-		"phone": "855-8131",
-		"email": "convallis.erat.eget@ipsumnuncid.com",
-		"dob": "03/07/1991"
-	},
-	{
-		"name": "Velma I. Cobb",
-		"phone": "1-979-311-2517",
-		"email": "aliquam.adipiscing@velarcueu.co.uk",
-		"dob": "11/11/1967"
-	},
-	{
-		"name": "Amery G. Ayala",
-		"phone": "509-2912",
-		"email": "molestie.pharetra@egestasDuis.edu",
-		"dob": "25/02/1976"
-	},
-	{
-		"name": "Josiah E. Rios",
-		"phone": "1-221-800-5552",
-		"email": "Duis.cursus@ipsumdolor.co.uk",
-		"dob": "20/08/1973"
-	},
-	{
-		"name": "Malachi Q. Tran",
-		"phone": "193-9929",
-		"email": "ante.ipsum.primis@atpretium.org",
-		"dob": "02/10/1987"
-	},
-	{
-		"name": "Erica Perez",
-		"phone": "1-381-238-7988",
-		"email": "mus.Proin@inlobortis.co.uk",
-		"dob": "21/08/1980"
-	},
-	{
-		"name": "Quinn A. Spence",
-		"phone": "1-465-928-7340",
-		"email": "enim.nec.tempus@orci.co.uk",
-		"dob": "07/01/1992"
-	},
-	{
-		"name": "Jolene Delacruz",
-		"phone": "1-285-575-9532",
-		"email": "bibendum.sed.est@nec.com",
-		"dob": "10/08/1990"
-	},
-	{
-		"name": "Rigel Cross",
-		"phone": "1-564-651-5621",
-		"email": "Vivamus.non.lorem@dignissimlacusAliquam.com",
-		"dob": "04/04/1969"
-	},
-	{
-		"name": "Jane Carney",
-		"phone": "658-6123",
-		"email": "bibendum@eleifendnunc.co.uk",
-		"dob": "29/10/1971"
-	},
-	{
-		"name": "Chancellor B. Cobb",
-		"phone": "1-127-360-1239",
-		"email": "ipsum.non@sem.org",
-		"dob": "25/09/1969"
-	},
-	{
-		"name": "Desirae Montoya",
-		"phone": "1-859-784-3087",
-		"email": "consectetuer.adipiscing@lobortismauris.co.uk",
-		"dob": "28/08/1991"
-	},
-	{
-		"name": "Rahim P. Whitfield",
-		"phone": "1-926-984-1942",
-		"email": "venenatis.lacus.Etiam@duinectempus.net",
-		"dob": "15/06/1978"
-	},
-	{
-		"name": "Brendan Willis",
-		"phone": "1-208-214-2665",
-		"email": "varius.orci.in@venenatis.org",
-		"dob": "31/10/1987"
-	},
-	{
-		"name": "Brady George",
-		"phone": "1-855-381-7483",
-		"email": "mi.enim.condimentum@Proinsedturpis.org",
-		"dob": "19/06/1969"
-	},
-	{
-		"name": "Austin Clark",
-		"phone": "449-1124",
-		"email": "a@purus.ca",
-		"dob": "24/10/1999"
-	}
+  {
+    "gameName": "POWERBALL",
+    "id": "1220",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "openTime": 1632365975000,
+    "closeTime": 1632362375000,
+    "drawTime": 1632362375000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1632362340000,
+    "resultsAvailableTime": 1632373424055,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 49000000000,
+    "results": [
+      {
+        "primary": ["20", "40", "47", "55", "63", "M-03", "PB-05"],
+        "multiplier": 3,
+        "primaryRevealOrder": ["20", "40", "47", "55", "63", "M-03", "PB-05"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 15000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 13,
+        "shareAmount": 10000,
+        "totalAmount": 130000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 30000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 39,
+        "shareAmount": 10000,
+        "totalAmount": 540000,
+        "multiplierShareCount": 5,
+        "multiplierShareAmount": 30000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 961,
+        "shareAmount": 700,
+        "totalAmount": 968800,
+        "multiplierShareCount": 141,
+        "multiplierShareAmount": 2100,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 766,
+        "shareAmount": 700,
+        "totalAmount": 760900,
+        "multiplierShareCount": 107,
+        "multiplierShareAmount": 2100,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 6331,
+        "shareAmount": 400,
+        "totalAmount": 3683200,
+        "multiplierShareCount": 959,
+        "multiplierShareAmount": 1200,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 16884,
+        "shareAmount": 400,
+        "totalAmount": 9777600,
+        "multiplierShareCount": 2520,
+        "multiplierShareAmount": 1200,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1219",
+    "drawDay": ["MONDAY"],
+    "status": "CLOSED",
+    "openTime": 1632193175000,
+    "closeTime": 1632189575000,
+    "drawTime": 1632189575000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1632189540000,
+    "resultsAvailableTime": 1632199527457,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 47200000000,
+    "results": [
+      {
+        "primary": ["37", "51", "54", "58", "60", "M-02", "PB-19"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["37", "51", "54", "58", "60", "M-02", "PB-19"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 4,
+        "shareAmount": 10000,
+        "totalAmount": 40000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 22,
+        "shareAmount": 10000,
+        "totalAmount": 340000,
+        "multiplierShareCount": 6,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 590,
+        "shareAmount": 700,
+        "totalAmount": 551600,
+        "multiplierShareCount": 99,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 467,
+        "shareAmount": 700,
+        "totalAmount": 417900,
+        "multiplierShareCount": 65,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 3942,
+        "shareAmount": 400,
+        "totalAmount": 2069600,
+        "multiplierShareCount": 616,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 10264,
+        "shareAmount": 400,
+        "totalAmount": 5508800,
+        "multiplierShareCount": 1754,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1218",
+    "drawDay": ["SATURDAY"],
+    "status": "CLOSED",
+    "openTime": 1632020375000,
+    "closeTime": 1632016775000,
+    "drawTime": 1632016775000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1632016740000,
+    "resultsAvailableTime": 1632027135971,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 45700000000,
+    "results": [
+      {
+        "primary": ["5", "36", "39", "45", "57", "M-02", "PB-11"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["5", "36", "39", "45", "57", "M-02", "PB-11"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 18,
+        "shareAmount": 10000,
+        "totalAmount": 240000,
+        "multiplierShareCount": 3,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 67,
+        "shareAmount": 10000,
+        "totalAmount": 790000,
+        "multiplierShareCount": 6,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1246,
+        "shareAmount": 700,
+        "totalAmount": 1093400,
+        "multiplierShareCount": 158,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1036,
+        "shareAmount": 700,
+        "totalAmount": 905800,
+        "multiplierShareCount": 129,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 8494,
+        "shareAmount": 400,
+        "totalAmount": 4419200,
+        "multiplierShareCount": 1277,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 20609,
+        "shareAmount": 400,
+        "totalAmount": 10670800,
+        "multiplierShareCount": 3034,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1217",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "openTime": 1631761175000,
+    "closeTime": 1631757575000,
+    "drawTime": 1631757575000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1631757540000,
+    "resultsAvailableTime": 1631767528118,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 43200000000,
+    "results": [
+      {
+        "primary": ["1", "4", "18", "46", "62", "M-03", "PB-25"],
+        "multiplier": 3,
+        "primaryRevealOrder": ["1", "4", "18", "46", "62", "M-03", "PB-25"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 15000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 16,
+        "shareAmount": 10000,
+        "totalAmount": 220000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 30000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 35,
+        "shareAmount": 10000,
+        "totalAmount": 590000,
+        "multiplierShareCount": 8,
+        "multiplierShareAmount": 30000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 829,
+        "shareAmount": 700,
+        "totalAmount": 802900,
+        "multiplierShareCount": 106,
+        "multiplierShareAmount": 2100,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 648,
+        "shareAmount": 700,
+        "totalAmount": 688800,
+        "multiplierShareCount": 112,
+        "multiplierShareAmount": 2100,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5146,
+        "shareAmount": 400,
+        "totalAmount": 3019600,
+        "multiplierShareCount": 801,
+        "multiplierShareAmount": 1200,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 12038,
+        "shareAmount": 400,
+        "totalAmount": 7035200,
+        "multiplierShareCount": 1850,
+        "multiplierShareAmount": 1200,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1216",
+    "drawDay": ["MONDAY"],
+    "status": "CLOSED",
+    "openTime": 1631588375000,
+    "closeTime": 1631584775000,
+    "drawTime": 1631584775000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1631584740000,
+    "resultsAvailableTime": 1631595096074,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 41600000000,
+    "results": [
+      {
+        "primary": ["37", "40", "50", "61", "63", "M-03", "PB-21"],
+        "multiplier": 3,
+        "primaryRevealOrder": ["37", "40", "50", "61", "63", "M-03", "PB-21"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 15000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 11,
+        "shareAmount": 10000,
+        "totalAmount": 110000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 30000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 18,
+        "shareAmount": 10000,
+        "totalAmount": 210000,
+        "multiplierShareCount": 1,
+        "multiplierShareAmount": 30000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 542,
+        "shareAmount": 700,
+        "totalAmount": 570500,
+        "multiplierShareCount": 91,
+        "multiplierShareAmount": 2100,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 478,
+        "shareAmount": 700,
+        "totalAmount": 473200,
+        "multiplierShareCount": 66,
+        "multiplierShareAmount": 2100,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 3658,
+        "shareAmount": 400,
+        "totalAmount": 2158000,
+        "multiplierShareCount": 579,
+        "multiplierShareAmount": 1200,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 9315,
+        "shareAmount": 400,
+        "totalAmount": 5665200,
+        "multiplierShareCount": 1616,
+        "multiplierShareAmount": 1200,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1215",
+    "drawDay": ["SATURDAY"],
+    "status": "CLOSED",
+    "openTime": 1631415575000,
+    "closeTime": 1631411975000,
+    "drawTime": 1631411975000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1631411940000,
+    "resultsAvailableTime": 1631421800753,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 40900000000,
+    "results": [
+      {
+        "primary": ["20", "31", "38", "40", "49", "M-02", "PB-21"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["20", "31", "38", "40", "49", "M-02", "PB-21"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 15,
+        "shareAmount": 10000,
+        "totalAmount": 170000,
+        "multiplierShareCount": 1,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 44,
+        "shareAmount": 10000,
+        "totalAmount": 660000,
+        "multiplierShareCount": 11,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1147,
+        "shareAmount": 700,
+        "totalAmount": 1067500,
+        "multiplierShareCount": 189,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 929,
+        "shareAmount": 700,
+        "totalAmount": 853300,
+        "multiplierShareCount": 145,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 6932,
+        "shareAmount": 400,
+        "totalAmount": 3596800,
+        "multiplierShareCount": 1030,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 17129,
+        "shareAmount": 400,
+        "totalAmount": 8829200,
+        "multiplierShareCount": 2472,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1214",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "openTime": 1631156375000,
+    "closeTime": 1631152775000,
+    "drawTime": 1631152775000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1631152740000,
+    "resultsAvailableTime": 1631162568892,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 38800000000,
+    "results": [
+      {
+        "primary": ["9", "22", "41", "47", "61", "M-02", "PB-21"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["9", "22", "41", "47", "61", "M-02", "PB-21"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 7,
+        "shareAmount": 10000,
+        "totalAmount": 90000,
+        "multiplierShareCount": 1,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 28,
+        "shareAmount": 10000,
+        "totalAmount": 360000,
+        "multiplierShareCount": 4,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 742,
+        "shareAmount": 700,
+        "totalAmount": 684600,
+        "multiplierShareCount": 118,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 580,
+        "shareAmount": 700,
+        "totalAmount": 519400,
+        "multiplierShareCount": 81,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 4581,
+        "shareAmount": 400,
+        "totalAmount": 2436400,
+        "multiplierShareCount": 755,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 10860,
+        "shareAmount": 400,
+        "totalAmount": 5802400,
+        "multiplierShareCount": 1823,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1213",
+    "drawDay": ["MONDAY"],
+    "status": "CLOSED",
+    "openTime": 1630983575000,
+    "closeTime": 1630979975000,
+    "drawTime": 1630979975000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1630979940000,
+    "resultsAvailableTime": 1630990210455,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 37500000000,
+    "results": [
+      {
+        "primary": ["11", "20", "22", "33", "54", "M-02", "PB-24"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["11", "20", "22", "33", "54", "M-02", "PB-24"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1,
+        "shareAmount": 5000000,
+        "totalAmount": 5000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5,
+        "shareAmount": 10000,
+        "totalAmount": 130000,
+        "multiplierShareCount": 4,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 22,
+        "shareAmount": 10000,
+        "totalAmount": 300000,
+        "multiplierShareCount": 4,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 552,
+        "shareAmount": 700,
+        "totalAmount": 544600,
+        "multiplierShareCount": 113,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 385,
+        "shareAmount": 700,
+        "totalAmount": 373100,
+        "multiplierShareCount": 74,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 2987,
+        "shareAmount": 400,
+        "totalAmount": 1642000,
+        "multiplierShareCount": 559,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 7004,
+        "shareAmount": 400,
+        "totalAmount": 3854400,
+        "multiplierShareCount": 1316,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1212",
+    "drawDay": ["SATURDAY"],
+    "status": "CLOSED",
+    "openTime": 1630810775000,
+    "closeTime": 1630807175000,
+    "drawTime": 1630807175000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1630807140000,
+    "resultsAvailableTime": 1630830753274,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 36700000000,
+    "results": [
+      {
+        "primary": ["32", "35", "40", "52", "54", "M-05", "PB-01"],
+        "multiplier": 5,
+        "primaryRevealOrder": ["32", "35", "40", "52", "54", "M-05", "PB-01"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 25000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 17,
+        "shareAmount": 10000,
+        "totalAmount": 270000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 50000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 31,
+        "shareAmount": 10000,
+        "totalAmount": 760000,
+        "multiplierShareCount": 9,
+        "multiplierShareAmount": 50000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1031,
+        "shareAmount": 700,
+        "totalAmount": 1194200,
+        "multiplierShareCount": 135,
+        "multiplierShareAmount": 3500,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 771,
+        "shareAmount": 700,
+        "totalAmount": 903700,
+        "multiplierShareCount": 104,
+        "multiplierShareAmount": 3500,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5950,
+        "shareAmount": 400,
+        "totalAmount": 4090000,
+        "multiplierShareCount": 855,
+        "multiplierShareAmount": 2000,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 15159,
+        "shareAmount": 400,
+        "totalAmount": 10479600,
+        "multiplierShareCount": 2208,
+        "multiplierShareAmount": 2000,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1211",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "openTime": 1630551575000,
+    "closeTime": 1630547975000,
+    "drawTime": 1630547975000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1630547940000,
+    "resultsAvailableTime": 1630557389995,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 34500000000,
+    "results": [
+      {
+        "primary": ["10", "20", "29", "48", "51", "M-02", "PB-17"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["10", "20", "29", "48", "51", "M-02", "PB-17"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5,
+        "shareAmount": 10000,
+        "totalAmount": 50000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 30,
+        "shareAmount": 10000,
+        "totalAmount": 340000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 701,
+        "shareAmount": 700,
+        "totalAmount": 640500,
+        "multiplierShareCount": 107,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 575,
+        "shareAmount": 700,
+        "totalAmount": 546700,
+        "multiplierShareCount": 103,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 4390,
+        "shareAmount": 400,
+        "totalAmount": 2338400,
+        "multiplierShareCount": 728,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 10038,
+        "shareAmount": 400,
+        "totalAmount": 5309600,
+        "multiplierShareCount": 1618,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1210",
+    "drawDay": ["MONDAY"],
+    "status": "CLOSED",
+    "openTime": 1630378775000,
+    "closeTime": 1630375175000,
+    "drawTime": 1630375175000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1630375140000,
+    "resultsAvailableTime": 1630387647418,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 33200000000,
+    "results": [
+      {
+        "primary": ["3", "15", "45", "51", "61", "M-02", "PB-08"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["3", "15", "45", "51", "61", "M-02", "PB-08"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 2,
+        "shareAmount": 5000000,
+        "totalAmount": 10000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 7,
+        "shareAmount": 10000,
+        "totalAmount": 90000,
+        "multiplierShareCount": 1,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 24,
+        "shareAmount": 10000,
+        "totalAmount": 300000,
+        "multiplierShareCount": 3,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 465,
+        "shareAmount": 700,
+        "totalAmount": 431900,
+        "multiplierShareCount": 76,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 348,
+        "shareAmount": 700,
+        "totalAmount": 323400,
+        "multiplierShareCount": 57,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 2970,
+        "shareAmount": 400,
+        "totalAmount": 1596800,
+        "multiplierShareCount": 511,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 7128,
+        "shareAmount": 400,
+        "totalAmount": 3854400,
+        "multiplierShareCount": 1254,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1209",
+    "drawDay": ["SATURDAY"],
+    "status": "CLOSED",
+    "openTime": 1630205975000,
+    "closeTime": 1630202375000,
+    "drawTime": 1630202375000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1630202340000,
+    "resultsAvailableTime": 1630213849072,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 32200000000,
+    "results": [
+      {
+        "primary": ["12", "22", "26", "46", "59", "M-02", "PB-26"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["12", "22", "26", "46", "59", "M-02", "PB-26"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1,
+        "shareAmount": 100000000,
+        "totalAmount": 100000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1,
+        "shareAmount": 5000000,
+        "totalAmount": 5000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 14,
+        "shareAmount": 10000,
+        "totalAmount": 180000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 35,
+        "shareAmount": 10000,
+        "totalAmount": 410000,
+        "multiplierShareCount": 3,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 915,
+        "shareAmount": 700,
+        "totalAmount": 804300,
+        "multiplierShareCount": 117,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 774,
+        "shareAmount": 700,
+        "totalAmount": 711200,
+        "multiplierShareCount": 121,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5768,
+        "shareAmount": 400,
+        "totalAmount": 2980000,
+        "multiplierShareCount": 841,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 13386,
+        "shareAmount": 400,
+        "totalAmount": 6924000,
+        "multiplierShareCount": 1962,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1208",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "openTime": 1629946775000,
+    "closeTime": 1629943175000,
+    "drawTime": 1629943175000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1629943140000,
+    "resultsAvailableTime": 1629956165410,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 30400000000,
+    "results": [
+      {
+        "primary": ["27", "39", "54", "56", "59", "M-03", "PB-24"],
+        "multiplier": 3,
+        "primaryRevealOrder": ["27", "39", "54", "56", "59", "M-03", "PB-24"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1,
+        "shareAmount": 5000000,
+        "totalAmount": 5000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 15000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 9,
+        "shareAmount": 10000,
+        "totalAmount": 90000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 30000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 23,
+        "shareAmount": 10000,
+        "totalAmount": 290000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 30000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 538,
+        "shareAmount": 700,
+        "totalAmount": 574000,
+        "multiplierShareCount": 94,
+        "multiplierShareAmount": 2100,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 440,
+        "shareAmount": 700,
+        "totalAmount": 446600,
+        "multiplierShareCount": 66,
+        "multiplierShareAmount": 2100,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 3335,
+        "shareAmount": 400,
+        "totalAmount": 1997600,
+        "multiplierShareCount": 553,
+        "multiplierShareAmount": 1200,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 8499,
+        "shareAmount": 400,
+        "totalAmount": 4981200,
+        "multiplierShareCount": 1318,
+        "multiplierShareAmount": 1200,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1207",
+    "drawDay": ["MONDAY"],
+    "status": "CLOSED",
+    "openTime": 1629773975000,
+    "closeTime": 1629770375000,
+    "drawTime": 1629770375000,
+    "wagerAvailable": false,
+    "wagerCloseTime": 1629770340000,
+    "resultsAvailableTime": 1629869140183,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "estimatedJackpot": 29300000000,
+    "results": [
+      {
+        "primary": ["17", "36", "47", "60", "61", "M-03", "PB-15"],
+        "multiplier": 3,
+        "primaryRevealOrder": ["17", "36", "47", "60", "61", "M-03", "PB-15"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 0,
+        "totalAmount": 0,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "PARAMUTUEL",
+        "multiplier": false,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 15000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 8,
+        "shareAmount": 10000,
+        "totalAmount": 80000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 30000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 12,
+        "shareAmount": 10000,
+        "totalAmount": 120000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 30000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 331,
+        "shareAmount": 700,
+        "totalAmount": 309400,
+        "multiplierShareCount": 37,
+        "multiplierShareAmount": 2100,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 257,
+        "shareAmount": 700,
+        "totalAmount": 251300,
+        "multiplierShareCount": 34,
+        "multiplierShareAmount": 2100,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 2099,
+        "shareAmount": 400,
+        "totalAmount": 1302800,
+        "multiplierShareCount": 386,
+        "multiplierShareAmount": 1200,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5327,
+        "shareAmount": 400,
+        "totalAmount": 3182000,
+        "multiplierShareCount": 876,
+        "multiplierShareAmount": 1200,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1206",
+    "drawDay": ["SUNDAY"],
+    "status": "CLOSED",
+    "closeTime": 1629593975000,
+    "drawTime": 1629612240000,
+    "wagerAvailable": false,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "results": [
+      {
+        "primary": ["16", "28", "36", "39", "59", "M-2", "PB-4"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["16", "28", "36", "39", "59", "M-2", "PB-4"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 29000000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 29000000000,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1,
+        "shareAmount": 5000000,
+        "totalAmount": 5000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 7,
+        "shareAmount": 10000,
+        "totalAmount": 70000,
+        "multiplierShareCount": 4,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 28,
+        "shareAmount": 10000,
+        "totalAmount": 280000,
+        "multiplierShareCount": 7,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 956,
+        "shareAmount": 700,
+        "totalAmount": 669200,
+        "multiplierShareCount": 144,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 813,
+        "shareAmount": 700,
+        "totalAmount": 569100,
+        "multiplierShareCount": 128,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5969,
+        "shareAmount": 400,
+        "totalAmount": 2387600,
+        "multiplierShareCount": 886,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 14914,
+        "shareAmount": 400,
+        "totalAmount": 5965600,
+        "multiplierShareCount": 2217,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1205",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "closeTime": 1629334775000,
+    "drawTime": 1629338375000,
+    "wagerAvailable": false,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "results": [
+      {
+        "primary": ["35", "36", "51", "55", "61", "M-2", "PB-26"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["35", "36", "51", "55", "61", "M-2", "PB-26"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 27400000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 27400000000,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 14,
+        "shareAmount": 10000,
+        "totalAmount": 140000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 36,
+        "shareAmount": 10000,
+        "totalAmount": 360000,
+        "multiplierShareCount": 3,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 690,
+        "shareAmount": 700,
+        "totalAmount": 483000,
+        "multiplierShareCount": 116,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 544,
+        "shareAmount": 700,
+        "totalAmount": 380800,
+        "multiplierShareCount": 116,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 4415,
+        "shareAmount": 400,
+        "totalAmount": 1766000,
+        "multiplierShareCount": 666,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 11618,
+        "shareAmount": 400,
+        "totalAmount": 4647200,
+        "multiplierShareCount": 1833,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1204",
+    "drawDay": ["SATURDAY"],
+    "status": "CLOSED",
+    "closeTime": 1628989175000,
+    "drawTime": 1628992775000,
+    "wagerAvailable": false,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "results": [
+      {
+        "primary": ["6", "21", "49", "65", "67", "M-2", "PB-18"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["6", "21", "49", "65", "67", "M-2", "PB-18"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 25800000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 25800000000,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1,
+        "shareAmount": 5000000,
+        "totalAmount": 5000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 15,
+        "shareAmount": 10000,
+        "totalAmount": 150000,
+        "multiplierShareCount": 4,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 29,
+        "shareAmount": 10000,
+        "totalAmount": 290000,
+        "multiplierShareCount": 8,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 812,
+        "shareAmount": 700,
+        "totalAmount": 568400,
+        "multiplierShareCount": 106,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 711,
+        "shareAmount": 700,
+        "totalAmount": 497700,
+        "multiplierShareCount": 105,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5415,
+        "shareAmount": 400,
+        "totalAmount": 2166000,
+        "multiplierShareCount": 823,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 13608,
+        "shareAmount": 400,
+        "totalAmount": 5443200,
+        "multiplierShareCount": 2096,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1203",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "closeTime": 1628729975000,
+    "drawTime": 1628733575000,
+    "wagerAvailable": false,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "results": [
+      {
+        "primary": ["12", "18", "20", "29", "30", "M-3", "PB-16"],
+        "multiplier": 3,
+        "primaryRevealOrder": ["12", "18", "20", "29", "30", "M-3", "PB-16"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 24100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 24100000000,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 3,
+        "shareAmount": 5000000,
+        "totalAmount": 15000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 15000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 18,
+        "shareAmount": 10000,
+        "totalAmount": 180000,
+        "multiplierShareCount": 4,
+        "multiplierShareAmount": 30000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 31,
+        "shareAmount": 10000,
+        "totalAmount": 310000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 30000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1051,
+        "shareAmount": 700,
+        "totalAmount": 735700,
+        "multiplierShareCount": 195,
+        "multiplierShareAmount": 2100,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 695,
+        "shareAmount": 700,
+        "totalAmount": 486500,
+        "multiplierShareCount": 112,
+        "multiplierShareAmount": 2100,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 4858,
+        "shareAmount": 400,
+        "totalAmount": 1943200,
+        "multiplierShareCount": 741,
+        "multiplierShareAmount": 1200,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 10948,
+        "shareAmount": 400,
+        "totalAmount": 4379200,
+        "multiplierShareCount": 1663,
+        "multiplierShareAmount": 1200,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1202",
+    "drawDay": ["SATURDAY"],
+    "status": "CLOSED",
+    "closeTime": 1628384375000,
+    "drawTime": 1628387975000,
+    "wagerAvailable": false,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "results": [
+      {
+        "primary": ["7", "24", "36", "54", "60", "M-2", "PB-23"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["7", "24", "36", "54", "60", "M-2", "PB-23"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 22600000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 22600000000,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 1,
+        "shareAmount": 5000000,
+        "totalAmount": 5000000,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 8,
+        "shareAmount": 10000,
+        "totalAmount": 80000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 22,
+        "shareAmount": 10000,
+        "totalAmount": 220000,
+        "multiplierShareCount": 5,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 854,
+        "shareAmount": 700,
+        "totalAmount": 597800,
+        "multiplierShareCount": 136,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 663,
+        "shareAmount": 700,
+        "totalAmount": 464100,
+        "multiplierShareCount": 100,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 5207,
+        "shareAmount": 400,
+        "totalAmount": 2082800,
+        "multiplierShareCount": 825,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 12158,
+        "shareAmount": 400,
+        "totalAmount": 4863200,
+        "multiplierShareCount": 1955,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  },
+  {
+    "gameName": "POWERBALL",
+    "id": "1201",
+    "drawDay": ["WEDNESDAY"],
+    "status": "CLOSED",
+    "closeTime": 1628125175000,
+    "drawTime": 1628128775000,
+    "wagerAvailable": false,
+    "gameRuleSet": {
+      "basePrice": 200,
+      "maxPrice": 200,
+      "minBoards": 1,
+      "maxBoards": 10,
+      "minPrimarySelections": 5,
+      "minSecondarySelections": 1,
+      "maxPrimarySelections": 5,
+      "maxSecondarySelections": 1,
+      "quickPickAvailable": true,
+      "multiplierAvailable": true,
+      "multiplierPrice": 100,
+      "durations": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 26],
+      "primarySelectionsLowNumber": 1,
+      "primarySelectionsHighNumber": 69,
+      "secondarySelectionsLowNumber": 1,
+      "secondarySelectionsHighNumber": 26,
+      "gameId": "10",
+      "basePointsPrice": 200,
+      "betTypes": [
+        {
+          "id": "Regular",
+          "primarySelectionsRules": {
+            "numberOfSelections": 5
+          },
+          "secondarySelectionsRules": {
+            "numberOfSelections": 1
+          },
+          "combinations": 1
+        }
+      ],
+      "systemBetTypes": [],
+      "selectionDescriptions": []
+    },
+    "results": [
+      {
+        "primary": ["5", "21", "32", "36", "58", "M-2", "PB-14"],
+        "multiplier": 2,
+        "primaryRevealOrder": ["5", "21", "32", "36", "58", "M-2", "PB-14"],
+        "drawType": "Regular"
+      }
+    ],
+    "prizeTiers": [
+      {
+        "shareCount": 0,
+        "shareAmount": 21100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 21100000000,
+        "name": "5/5+PB",
+        "id": "1",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 100000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 200000000,
+        "name": "5/5",
+        "id": "2",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 0,
+        "shareAmount": 5000000,
+        "totalAmount": 0,
+        "multiplierShareCount": 0,
+        "multiplierShareAmount": 10000000,
+        "name": "4/5+PB",
+        "id": "3",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 7,
+        "shareAmount": 10000,
+        "totalAmount": 70000,
+        "multiplierShareCount": 2,
+        "multiplierShareAmount": 20000,
+        "name": "4/5",
+        "id": "4",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 36,
+        "shareAmount": 10000,
+        "totalAmount": 360000,
+        "multiplierShareCount": 7,
+        "multiplierShareAmount": 20000,
+        "name": "3/5+PB",
+        "id": "5",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 749,
+        "shareAmount": 700,
+        "totalAmount": 524300,
+        "multiplierShareCount": 120,
+        "multiplierShareAmount": 1400,
+        "name": "3/5",
+        "id": "6",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 648,
+        "shareAmount": 700,
+        "totalAmount": 453600,
+        "multiplierShareCount": 113,
+        "multiplierShareAmount": 1400,
+        "name": "2/5+PB",
+        "id": "7",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 4837,
+        "shareAmount": 400,
+        "totalAmount": 1934800,
+        "multiplierShareCount": 810,
+        "multiplierShareAmount": 800,
+        "name": "1/5+PB",
+        "id": "8",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      },
+      {
+        "shareCount": 11327,
+        "shareAmount": 400,
+        "totalAmount": 4530800,
+        "multiplierShareCount": 1985,
+        "multiplierShareAmount": 800,
+        "name": "0/5+PB",
+        "id": "9",
+        "prizeType": "FIXED",
+        "multiplier": true,
+        "drawType": "Regular"
+      }
+    ],
+    "subscriptionAvailable": false
+  }
 ]
