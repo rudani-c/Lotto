@@ -2,8 +2,9 @@ import { countBy, transform } from 'lodash';
 import moment from 'moment';
 import React from 'react';
 import DataTable from 'react-data-table-component';
-import data from './data.json';
+import data from './data/data.json';
 
+const DATE_FORMAT = 'MM/DD/YY';
 const EPowerBallNumbers = {
   N1: 'n1',
   N2: 'n2',
@@ -56,30 +57,37 @@ const columns = [
   {
     name: '0-10',
     selector: EAnalysis.zeroToTen,
+    style: "background-color: #daf8ff",
   },
   {
     name: '11-20',
     selector: EAnalysis.elevenToTwenty,
+    style: "background-color: #daf8ff",
   },
   {
     name: '21-30',
     selector: EAnalysis.twentyoneToThirty,
+    style: "background-color: #daf8ff",
   },
   {
     name: '31-40',
     selector: EAnalysis.thirtyoneToFourty,
+    style: "background-color: #daf8ff",
   },
   {
     name: '41-50',
     selector: EAnalysis.fourtyoneToFifty,
+    style: "background-color: #daf8ff",
   },
   {
     name: '51-60',
     selector: EAnalysis.fiftyoneToSixty,
+    style: "background-color: #daf8ff",
   },
   {
     name: '61-70',
     selector: EAnalysis.sixtyoneToSeventy,
+    style: "background-color: #daf8ff",
   },
 ];
 
@@ -112,19 +120,19 @@ const getHotNumbers = (noOfTimesNumberDrawn) => {
 function App() {
   const drawnNumbers = [];
   const powerballNumbers = [];
-  const powerballData = data.map(d => {
-    const drawingResult = d.results[0].primary;
-    const numbers = drawingResult.slice(0, 5);
+  const powerballData = [];
+  data.forEach(d => {
+    const numbers = d.field_winning_numbers.split(",", 5);
     drawnNumbers.push(...numbers);
-    const powerball = drawingResult[6].slice(3);
+    const powerball = d.field_winning_numbers.split(",", 6).slice(5).join();
     powerballNumbers.push(powerball);
-    return {
-      drawTime: moment(d.drawTime).format('MM/DD/YY'),
-      [EPowerBallNumbers.N1]: drawingResult[0],
-      [EPowerBallNumbers.N2]: drawingResult[1],
-      [EPowerBallNumbers.N3]: drawingResult[2],
-      [EPowerBallNumbers.N4]: drawingResult[3],
-      [EPowerBallNumbers.N5]: drawingResult[4],
+    powerballData.push({
+      drawTime: moment(d.field_draw_date).format(DATE_FORMAT),
+      [EPowerBallNumbers.N1]: numbers[0],
+      [EPowerBallNumbers.N2]: numbers[1],
+      [EPowerBallNumbers.N3]: numbers[2],
+      [EPowerBallNumbers.N4]: numbers[3],
+      [EPowerBallNumbers.N5]: numbers[4],
       [EPowerBallNumbers.PB]: powerball,
       [EAnalysis.zeroToTen]: noOfNumbersBetween(numbers, 0, 10),
       [EAnalysis.elevenToTwenty]: noOfNumbersBetween(numbers, 11, 20),
@@ -133,29 +141,51 @@ function App() {
       [EAnalysis.fourtyoneToFifty]: noOfNumbersBetween(numbers, 41, 50),
       [EAnalysis.fiftyoneToSixty]: noOfNumbersBetween(numbers, 51, 60),
       [EAnalysis.sixtyoneToSeventy]: noOfNumbersBetween(numbers, 61, 70),
-    }
+    })
   });
   const countNoOfTimes = countNoOfTimesNumberDrawn(drawnNumbers);
   console.log("DRAWN NUMBERS");
   console.log(countNoOfTimes);
   const hotNumbers = getHotNumbers(countNoOfTimes);
-  console.log("HOT NUMBERS");
-  console.log(hotNumbers);
   const countNoOfTimesPB = countNoOfTimesNumberDrawn(powerballNumbers);
   console.log("DRAWN PB NUMBERS");
   console.log(countNoOfTimesPB);
   const hotPBNumbers = getHotNumbers(countNoOfTimesPB);
-  console.log("HOT PB NUMBERS");
-  console.log(hotPBNumbers);
+
+  const listItems = (list) => (
+    <ul>
+      {
+        Object.entries(list).map(([key, value], i) => {
+          return (
+            <li key={i}>
+              {key + ': ' + value.join(", ")}
+            </li>
+          );
+        })
+      }
+    </ul>
+  );
 
   return (
     <div className="App">
-      <DataTable
-        title="Lotto Analysis"
-        columns={columns}
-        data={powerballData}
-        highlightOnHover
-      />
+      <div className="Analysis">
+        <div>
+          {"HOT NUMBERS:"}
+          {listItems(hotNumbers)}
+        </div>
+        <div>
+          {"HOT PB NUMBERS:"}
+          {listItems(hotPBNumbers)}
+        </div>
+      </div>
+      <div>
+        <DataTable
+          title="Lotto Analysis"
+          columns={columns}
+          data={powerballData}
+          highlightOnHover
+        />
+      </div>
     </div>
   );
 }
